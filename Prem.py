@@ -610,7 +610,7 @@ def uas():
 # CEK OPSI #
 def file_cp():
     print ("\n%s•%s [%s pilih hasil crack yg tersimpan untuk cek opsi %s]\n"%(U,O,U,O))
-    for file in dirs:
+    for file in :
         print("%s•%s> %s%s"%(U,M,K,file));jeda(0.07)
     try:
     	print("\n%s%s%s Masukan file [ cth%s: %s%s.txt%s ]"%(U,til,O,M,K,waktu,O))
